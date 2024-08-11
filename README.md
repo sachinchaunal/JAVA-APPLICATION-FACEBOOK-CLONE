@@ -1,4 +1,4 @@
-## Project Title # JAVA-APPLICATION-FACEBOOK-CLONE
+## JAVA-APPLICATION-FACEBOOK-CLONE
 
 **Java GUI Application Suite**
 
